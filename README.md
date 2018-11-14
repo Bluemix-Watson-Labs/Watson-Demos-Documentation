@@ -14,9 +14,9 @@
 * Watson Discovery
   * Video: https://youtu.be/9ks-cEG6KPs
   * Demo: https://discovery-news-demo.mybluemix.net/
-* Watson Virtual Assistant (formerly Watson Conversation) 
-  * Video: https://www.youtube.com/watch?v=A96nLYSMltA&list=PLZDyxLlNKRY-YOxeg5Hv0IMgQfmKp8ZN4
-  * Demo: https://conversation-demo.mybluemix.net/
+* Watson Assistant (formerly Watson Conversation) 
+  * Video: https://www.youtube.com/watch?v=8nIEDhV_vgE
+  * Demo: https://www.ibm.com/watson/ai-assistant/
   * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
 * Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
@@ -80,7 +80,7 @@ Use this link, if you are unable to use Watson Studio to train your images. Trai
 
 Instructions on how to bind a service to your application: https://medium.com/@helenflam/how-to-bind-a-service-to-your-application-875bcd8c72f0
 
-(iv) Watson Labs online: https://medium.com/ibm-watson/tagged/tutorials
+(iv) Various Watson Labs online: https://medium.com/ibm-watson/tagged/tutorials
 
 ## Contact for follow up 
 
