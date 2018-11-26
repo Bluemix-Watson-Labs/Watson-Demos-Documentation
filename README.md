@@ -16,7 +16,7 @@
   * Demo: https://discovery-news-demo.mybluemix.net/
 * Watson Assistant (formerly Watson Conversation) 
   * Video: https://www.youtube.com/watch?v=8nIEDhV_vgE
-  * Demo: https://www.ibm.com/watson/ai-assistant/
+  * Demo: https://www.ibm.com/watson/ai-assistant/#developers
   * Extra FYI Watson Discovery + Watson Conversation: https://www.youtube.com/watch?v=SasXUqBE-38
 * Tone Analyzer 
   * Video: https://www.youtube.com/watch?v=wUb--6FPBik
