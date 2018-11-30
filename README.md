@@ -24,6 +24,7 @@
 * Watson Personality Insights
   * Video: https://www.youtube.com/watch?v=YdVVLWv3Fwo
   * Demo: https://personality-insights-livedemo.mybluemix.net/
+  * Demo 2: https://your-celebrity-match.ng.bluemix.net/
 * Natural Language Classifier
   * Video: https://www.youtube.com/watch?v=h1ZiUIvYdD8&feature=youtu.be
   * Demo: https://natural-language-classifier-demo.mybluemix.net/
